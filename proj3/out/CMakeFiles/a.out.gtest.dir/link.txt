@@ -1,0 +1,1 @@
+/usr/bin/clang++      CMakeFiles/a.out.gtest.dir/gtest/gtestmain.cpp.o  -o bin/a.out.gtest -rdynamic -lc++ -lpthread -lgtest -lgtest_main lib/libics46projectcore.a lib/libics46projectprovided.a lib/libics46projectcore.a -lc++ -lpthread 

@@ -1,0 +1,2 @@
+/usr/bin/ar cq lib/libics46projectprovided.a  CMakeFiles/ics46projectprovided.dir/provided/Stopwatch.cpp.o CMakeFiles/ics46projectprovided.dir/provided/WordSetLoader.cpp.o CMakeFiles/ics46projectprovided.dir/provided/SpellCheckShell.cpp.o CMakeFiles/ics46projectprovided.dir/provided/TextFileReader.cpp.o CMakeFiles/ics46projectprovided.dir/provided/StringHashing.cpp.o CMakeFiles/ics46projectprovided.dir/provided/OutputSpellCheckerListener.cpp.o CMakeFiles/ics46projectprovided.dir/provided/SpellChecker.cpp.o
+/usr/bin/ranlib lib/libics46projectprovided.a

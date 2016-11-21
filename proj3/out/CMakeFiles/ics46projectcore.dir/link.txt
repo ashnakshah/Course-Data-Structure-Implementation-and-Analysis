@@ -1,0 +1,2 @@
+/usr/bin/ar cq lib/libics46projectcore.a  CMakeFiles/ics46projectcore.dir/core/WordChecker.cpp.o
+/usr/bin/ranlib lib/libics46projectcore.a

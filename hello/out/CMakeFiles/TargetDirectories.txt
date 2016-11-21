@@ -1,0 +1,4 @@
+/home/ics46/projects/hello/out/CMakeFiles/a.out.app.dir
+/home/ics46/projects/hello/out/CMakeFiles/ics46projectcore.dir
+/home/ics46/projects/hello/out/CMakeFiles/a.out.gtest.dir
+/home/ics46/projects/hello/out/CMakeFiles/a.out.exp.dir

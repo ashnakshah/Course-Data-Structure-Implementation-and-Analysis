@@ -1,0 +1,4 @@
+/home/ics46/projects/proj1/out/CMakeFiles/a.out.app.dir
+/home/ics46/projects/proj1/out/CMakeFiles/darkcore.dir
+/home/ics46/projects/proj1/out/CMakeFiles/a.out.gtest.dir
+/home/ics46/projects/proj1/out/CMakeFiles/a.out.exp.dir

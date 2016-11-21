@@ -1,0 +1,2 @@
+/usr/bin/ar cq lib/libdarkcore.a  CMakeFiles/darkcore.dir/core/DepthFirstMazeSolver.cpp.o CMakeFiles/darkcore.dir/core/TMG.cpp.o CMakeFiles/darkcore.dir/core/DepthFirstMazeGenerator.cpp.o
+/usr/bin/ranlib lib/libdarkcore.a

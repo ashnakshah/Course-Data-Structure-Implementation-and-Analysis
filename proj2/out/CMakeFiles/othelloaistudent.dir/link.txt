@@ -1,0 +1,2 @@
+/usr/bin/ar cq lib/libothelloaistudent.a  CMakeFiles/othelloaistudent.dir/core/AdvanceAI.cpp.o CMakeFiles/othelloaistudent.dir/core/OthelloAITesting.cpp.o
+/usr/bin/ranlib lib/libothelloaistudent.a

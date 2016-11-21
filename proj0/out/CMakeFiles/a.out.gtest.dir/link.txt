@@ -1,0 +1,1 @@
+/usr/bin/clang++      CMakeFiles/a.out.gtest.dir/gtest/gtestmain.cpp.o CMakeFiles/a.out.gtest.dir/gtest/test.cpp.o  -o bin/a.out.gtest -rdynamic -lpthread -lc++ -lgtest -lgtest_main 

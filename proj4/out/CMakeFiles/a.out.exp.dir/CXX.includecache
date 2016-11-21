@@ -1,0 +1,42 @@
+#IncludeRegexLine: ^[ 	]*#[ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+../app/RoadMap.hpp
+string
+-
+Digraph.hpp
+../app/Digraph.hpp
+RoadSegment.hpp
+../app/RoadSegment.hpp
+
+../app/RoadSegment.hpp
+
+../core/Digraph.hpp
+functional
+-
+list
+-
+map
+-
+utility
+-
+vector
+-
+algorithm
+-
+queue
+-
+
+/home/ics46/projects/proj4/exp/expmain.cpp
+fstream
+-
+iostream
+-
+RoadMap.hpp
+/home/ics46/projects/proj4/exp/RoadMap.hpp
+
